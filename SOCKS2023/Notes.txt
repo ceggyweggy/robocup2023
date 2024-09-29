@@ -1,0 +1,12 @@
+run Robot.cpp updatePos, line 218
+DONE what is RobotFunctions.h locAim, line 140
+need to rewrite RobotFunctions.h ballCapping, line 526
+DONE what is RobotFunctions.h ballCapping, line 560
+what is RobotFunctions.h ballSendPos, line 935
+what is RobotFunctions.h ballReceive, line 942
+
+todo:
+-check if lidar dying is bc of code (backleft on its own)
+
+1403:
+-change ballcap cone case in balltrack - /20.0 to constant?
